@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
