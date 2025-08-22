@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0415-add-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0002-add-two-numbers) |
+| [0415-add-strings](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
