@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
