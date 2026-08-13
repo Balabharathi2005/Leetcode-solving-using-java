@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0219-contains-duplicate-ii) |
@@ -91,5 +92,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0338-counting-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
