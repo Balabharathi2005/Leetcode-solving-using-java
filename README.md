@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0219-contains-duplicate-ii) |
 | [0792-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0792-binary-search) |
+| [1929-concatenation-of-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
