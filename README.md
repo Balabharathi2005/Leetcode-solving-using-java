@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0344-reverse-string) |
 ## String
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0792-binary-search) |
 ## Dynamic Programming
