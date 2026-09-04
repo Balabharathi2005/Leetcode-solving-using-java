@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0705-design-hashset) |
 | [0792-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0792-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
