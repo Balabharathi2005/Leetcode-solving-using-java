@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0977-squares-of-a-sorted-array) |
+| [3794-reverse-string-prefix](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3794-reverse-string-prefix](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
