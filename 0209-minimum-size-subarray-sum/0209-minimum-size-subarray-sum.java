@@ -4,18 +4,21 @@ class Solution {
         int minlength=Integer.MAX_VALUE;
         int length=0;
         int left=0;
+        int rigth = 0;
         int sum=0;
-        for(int rigth=0;rigth<nums.length;rigth++){
+        while(rigth < nums.length){
             sum+=nums[rigth];
-            while(sum>=target){
-                length=rigth-left+1;
+            while(sum >= target){
+                length = rigth - left + 1;
 
-                if(length<minlength){
-                        minlength=length;
-                    }
-                sum=sum-nums[left++];
+                minlength = Math.min(length,minlength);
+
+                sum-=nums[left];
+                left++;
             }
+            rigth++;
         }
-        return (length==0) ? 0:minlength;
+        return Math.min(length,minlength);
+        
     }
 }
