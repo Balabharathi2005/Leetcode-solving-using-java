@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0705-design-hashset) |
+| [0713-subarray-product-less-than-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/1929-concatenation-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0713-subarray-product-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0713-subarray-product-less-than-k) |
 ## Quicksort
 |  |
 | ------- |
