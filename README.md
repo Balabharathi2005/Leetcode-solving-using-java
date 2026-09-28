@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1929-concatenation-of-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
