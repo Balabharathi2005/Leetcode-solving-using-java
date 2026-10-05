@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0724-find-pivot-index) |
 ## Quicksort
 |  |
 | ------- |
