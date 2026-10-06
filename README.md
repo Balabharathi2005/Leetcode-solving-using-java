@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0904-fruit-into-baskets) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0415-add-strings) |
+| [0523-continuous-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0724-find-pivot-index) |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0042-trapping-rain-water) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Balabharathi2005/Leetcode-solving-using-java/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
